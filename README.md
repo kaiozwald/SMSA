@@ -76,3 +76,6 @@ Each record in the dataset includes:
 - Bottom 10 countries show consistently low scores with poor economic and health indicators.
 
 
+## Project Images
+![Global View](https://github.com/kaiozwald/SMSA/blob/main/Global.png)
+![alt text](https://github.com/kaiozwald/SMSA/blob/main/Country.png)
